@@ -1,4 +1,4 @@
-let nombre = "Mi nombre beibe";
+let nombre = "Mi nombre es Gonorrea";
 let edad = 420;
 let estatura = 666;
 let ojos = "cafes"
